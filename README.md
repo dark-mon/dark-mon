@@ -98,6 +98,4 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhadeepZilong&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhadeepZilong&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhadeepZilong" height="192px"/>
-
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=monfra-area&theme=transparent&hide_border=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=monfra-area&theme=dark&hide_border=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="GitHub Streak" /></a>
