@@ -88,4 +88,6 @@
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 ## 🔥 Streak Stats
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=monfra-area&theme=gruvbox&hide_border=true&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="GitHub Streak" /></a>
+</div>
